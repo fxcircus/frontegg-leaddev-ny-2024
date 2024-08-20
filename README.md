@@ -4,6 +4,8 @@
 
 This project is a retro-styled leaderboard applicatios. users start and stop a timer, with the recorded time being displayed on a dynamic leaderboard.
 
+![Screenshot](./screenshot.png)
+
 ## Features
 
 - **Leaderboard**: Displays users' times, sorted by the fastest time.
